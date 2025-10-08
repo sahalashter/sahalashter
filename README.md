@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xzaGN5dHY1dnNyanY3dHBuZnNqeWNjajZ3YWF5YTh0NHVlc2Q5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4jtODh4Qekmic/giphy.gif" alt="Ronaldo" width="600" height="500" align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmg4bW53ZzVobXcyMWpycTI3enpqaWhpYWVtdzg3dHMwemcwOG1ydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3otPoPmNBUk02YKdjy/giphy.gif" alt="boby" width="600" height="630" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xzaGN5dHY1dnNyanY3dHBuZnNqeWNjajZ3YWF5YTh0NHVlc2Q5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4jtODh4Qekmic/giphy.gif" alt="Ronaldo" width="400" height="500" align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmg4bW53ZzVobXcyMWpycTI3enpqaWhpYWVtdzg3dHMwemcwOG1ydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3otPoPmNBUk02YKdjy/giphy.gif" alt="boby" width="400" height="500" align="right">
